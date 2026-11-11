@@ -19,7 +19,7 @@ Direct3D:
 <RI> Initializing input.
 Using Windows.Gaming.Input
 <RI> Input initialized.
-UnloadTime: 3.172500 ms
+UnloadTime: 0.484000 ms
 :: GIT HASH COMMIT: 28427de2
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
@@ -107,7 +107,7 @@ UnityEngine.GameObject:AddComponent(Type)
 UnityEngine.GameObject:AddComponent()
 Singleton`1:get_Instance()
 
-[ line 837735800]
+[ line 240243976]
 
 [Singleton] Using instance already created: New Game Object
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -205,7 +205,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -214,7 +214,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -223,7 +223,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 2% (50/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -241,7 +241,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -250,7 +250,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -259,7 +259,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 3% (100/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -277,7 +277,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -286,7 +286,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -295,7 +295,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 5% (150/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -313,7 +313,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -322,7 +322,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -331,7 +331,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 7% (200/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -349,7 +349,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -358,7 +358,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -367,7 +367,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 9% (250/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -385,7 +385,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -394,7 +394,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -403,7 +403,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 10% (300/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -421,7 +421,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -430,7 +430,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -439,7 +439,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 12% (350/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -457,7 +457,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -466,7 +466,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -475,7 +475,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 14% (400/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -493,7 +493,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -502,7 +502,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -511,7 +511,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 16% (450/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -529,7 +529,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -538,7 +538,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -547,7 +547,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 17% (500/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -565,7 +565,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -574,7 +574,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -583,7 +583,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 19% (550/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -601,7 +601,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -610,7 +610,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -619,7 +619,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 21% (600/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -637,7 +637,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -646,7 +646,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -655,7 +655,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 23% (650/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -673,7 +673,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -682,7 +682,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -691,7 +691,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 24% (700/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -709,7 +709,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -718,7 +718,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -727,7 +727,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 26% (750/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -745,7 +745,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -754,7 +754,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -763,7 +763,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 28% (800/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -781,7 +781,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -790,7 +790,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -799,7 +799,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 30% (850/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -817,7 +817,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -826,7 +826,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -835,7 +835,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 31% (900/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -853,7 +853,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -862,7 +862,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -871,7 +871,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 33% (950/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -889,7 +889,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -898,7 +898,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -907,7 +907,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 35% (1000/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -925,7 +925,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -934,7 +934,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -943,7 +943,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 37% (1050/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -961,7 +961,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -970,7 +970,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -979,7 +979,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 38% (1100/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -997,7 +997,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1006,7 +1006,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1015,7 +1015,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 40% (1150/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -1033,7 +1033,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1042,7 +1042,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1051,7 +1051,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 42% (1200/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -1069,7 +1069,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1078,7 +1078,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1087,7 +1087,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 44% (1250/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -1105,7 +1105,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1114,7 +1114,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1123,7 +1123,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 45% (1300/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -1141,7 +1141,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1150,7 +1150,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1159,7 +1159,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 47% (1350/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -1177,7 +1177,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1186,7 +1186,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1195,7 +1195,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 49% (1400/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -1213,7 +1213,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1222,7 +1222,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1231,7 +1231,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 51% (1450/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -1249,7 +1249,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1258,7 +1258,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1267,7 +1267,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 52% (1500/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -1285,7 +1285,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1294,7 +1294,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1303,7 +1303,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 54% (1550/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -1321,7 +1321,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to RuntimePlatform mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1330,7 +1330,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 WarmUp may be inaccurate due to Quality Level mismatch.
 UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
@@ -1339,7 +1339,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ line 837737272]
+[ line 240245448]
 
 [Shaders] Warming up graphics state collection 'GraphicsStateCollection': 54% (1557/2861)
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -1350,7 +1350,7 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 <Start>d__5:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[Shaders] All graphics state collections warmed up in 0,16443s
+[Shaders] All graphics state collections warmed up in 0,1646556s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -1806,7 +1806,7 @@ UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 ObjectsManager:OnSceneUnloaded(Scene)
 
-UnloadTime: 2.221900 ms
+UnloadTime: 1.110500 ms
 EnterTween :: This DOTweenAnimation isn't valid and its tween won't be created
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object, Object)
@@ -1824,9 +1824,9 @@ UnityEngine.Debug:Log(Object)
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 Unloading 1017 unused Assets to reduce memory usage. Loaded Objects now: 77884.
-Total: 79.820800 ms (FindLiveObjects: 3.945300 ms CreateObjectMapping: 5.766100 ms MarkObjects: 58.721900 ms  DeleteObjects: 11.387000 ms)
+Total: 87.071100 ms (FindLiveObjects: 6.831600 ms CreateObjectMapping: 12.322000 ms MarkObjects: 56.521500 ms  DeleteObjects: 11.395700 ms)
 
-[SceneLoading] Scene MainMenu loaded in: 0,5725601s
+[SceneLoading] Scene MainMenu loaded in: 0,5360218s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -1841,7 +1841,7 @@ UnityEngine.Debug:Log(Object)
 <ProcessQueue>d__29:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[SceneLoading] Scene MainMenu objects initialized in: 0,0087545s
+[SceneLoading] Scene MainMenu objects initialized in: 0,0040634s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -1849,7 +1849,7 @@ UnityEngine.Debug:Log(Object)
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 14)
-[SceneLoading] Memory cleared in: 0,0154152s
+[SceneLoading] Memory cleared in: 0,0164285s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -1857,7 +1857,7 @@ UnityEngine.Debug:Log(Object)
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 77882.
-Total: 57.888700 ms (FindLiveObjects: 3.145900 ms CreateObjectMapping: 4.762300 ms MarkObjects: 49.844000 ms  DeleteObjects: 0.136100 ms)
+Total: 58.567500 ms (FindLiveObjects: 3.776100 ms CreateObjectMapping: 4.969800 ms MarkObjects: 49.682400 ms  DeleteObjects: 0.138900 ms)
 
 Color primaries 0 is unknown or unsupported by WindowsMediaFoundation. Falling back to default may result in color shift. C:/Games/Low-Budget Repairs (2026)/LowBudgetRepairs_Data/sharedassets1.resource
 [DLCManager] DLC DLC_SupporterPack is unlocked
@@ -1868,14 +1868,14 @@ Simplicity.DLC.DLCManager:ValidateDLCs()
 <SceneLoad>d__47:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[SceneLoading] Portal manager handled in: 0,0139262s
+[SceneLoading] Portal manager handled in: 0,0129094s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <SceneLoad>d__47:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[SceneLoading] Scene MainMenu load time: 2,8685036s
+[SceneLoading] Scene MainMenu load time: 2,8265489s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -1890,13 +1890,21 @@ SaveManager:LoadSave(SaveDirData)
 SaveManager:LoadQuickSave()
 UnityEngine.Events.UnityEvent:Invoke()
 Majster.UI.UISelectableButton:Confirm()
-UnityEngine.Events.UnityEvent`1:Invoke(T0)
-UnityEngine.EventSystems.EventTrigger:Execute(EventTriggerType, BaseEventData)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
-UnityEngine.EventSystems.EventSystem:Update()
+UnityEngine.InputSystem.Utilities.DelegateHelpers:InvokeCallbacksSafe(CallbackArray`1&, TValue, String, Object)
+UnityEngine.InputSystem.InputActionState:CallActionListeners(Int32, InputActionMap, InputActionPhase, CallbackArray`1&, String)
+UnityEngine.InputSystem.InputActionState:ChangePhaseOfActionInternal(Int32, TriggerState*, InputActionPhase, TriggerState&, Boolean)
+UnityEngine.InputSystem.InputActionState:ChangePhaseOfAction(InputActionPhase, TriggerState&, InputActionPhase)
+UnityEngine.InputSystem.InputActionState:ProcessDefaultInteraction(TriggerState&, Int32)
+UnityEngine.InputSystem.InputActionState:ProcessControlStateChange(Int32, Int32, Int32, Double, InputEventPtr)
+UnityEngine.InputSystem.InputActionState:UnityEngine.InputSystem.LowLevel.IInputStateChangeMonitor.NotifyControlStateChanged(InputControl, Double, InputEventPtr, Int64)
+UnityEngine.InputSystem.InputManagerStateMonitors:FireStateChangeNotifications(Int32, Double, InputEvent*)
+UnityEngine.InputSystem.InputManager:UpdateState(InputDevice, InputUpdateType, Void*, UInt32, UInt32, Double, InputEventPtr)
+UnityEngine.InputSystem.InputManager:UpdateState(InputDevice, InputEvent*, InputUpdateType)
+UnityEngine.InputSystem.InputManager:ProcessEvent(InputDevice, InputUpdateType, InputEvent*, UInt32&, Double)
+UnityEngine.InputSystem.InputManager:ProcessBeforeRenderStateEvents(InputDevice&, InputEvent*&)
+UnityEngine.InputSystem.InputManager:OnUpdate(InputUpdateType, InputEventBuffer&)
+UnityEngine.InputSystem.LowLevel.<>c__DisplayClass10_0:<set_onUpdate>b__0(NativeInputUpdateType, NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate(NativeInputUpdateType, IntPtr)
 
 [Save] Load data
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -1907,13 +1915,21 @@ SaveManager:LoadSave(SaveDirData)
 SaveManager:LoadQuickSave()
 UnityEngine.Events.UnityEvent:Invoke()
 Majster.UI.UISelectableButton:Confirm()
-UnityEngine.Events.UnityEvent`1:Invoke(T0)
-UnityEngine.EventSystems.EventTrigger:Execute(EventTriggerType, BaseEventData)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
-UnityEngine.EventSystems.EventSystem:Update()
+UnityEngine.InputSystem.Utilities.DelegateHelpers:InvokeCallbacksSafe(CallbackArray`1&, TValue, String, Object)
+UnityEngine.InputSystem.InputActionState:CallActionListeners(Int32, InputActionMap, InputActionPhase, CallbackArray`1&, String)
+UnityEngine.InputSystem.InputActionState:ChangePhaseOfActionInternal(Int32, TriggerState*, InputActionPhase, TriggerState&, Boolean)
+UnityEngine.InputSystem.InputActionState:ChangePhaseOfAction(InputActionPhase, TriggerState&, InputActionPhase)
+UnityEngine.InputSystem.InputActionState:ProcessDefaultInteraction(TriggerState&, Int32)
+UnityEngine.InputSystem.InputActionState:ProcessControlStateChange(Int32, Int32, Int32, Double, InputEventPtr)
+UnityEngine.InputSystem.InputActionState:UnityEngine.InputSystem.LowLevel.IInputStateChangeMonitor.NotifyControlStateChanged(InputControl, Double, InputEventPtr, Int64)
+UnityEngine.InputSystem.InputManagerStateMonitors:FireStateChangeNotifications(Int32, Double, InputEvent*)
+UnityEngine.InputSystem.InputManager:UpdateState(InputDevice, InputUpdateType, Void*, UInt32, UInt32, Double, InputEventPtr)
+UnityEngine.InputSystem.InputManager:UpdateState(InputDevice, InputEvent*, InputUpdateType)
+UnityEngine.InputSystem.InputManager:ProcessEvent(InputDevice, InputUpdateType, InputEvent*, UInt32&, Double)
+UnityEngine.InputSystem.InputManager:ProcessBeforeRenderStateEvents(InputDevice&, InputEvent*&)
+UnityEngine.InputSystem.InputManager:OnUpdate(InputUpdateType, InputEventBuffer&)
+UnityEngine.InputSystem.LowLevel.<>c__DisplayClass10_0:<set_onUpdate>b__0(NativeInputUpdateType, NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate(NativeInputUpdateType, IntPtr)
 
 [Save] Load scene
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -1924,13 +1940,21 @@ SaveManager:LoadSave(SaveDirData)
 SaveManager:LoadQuickSave()
 UnityEngine.Events.UnityEvent:Invoke()
 Majster.UI.UISelectableButton:Confirm()
-UnityEngine.Events.UnityEvent`1:Invoke(T0)
-UnityEngine.EventSystems.EventTrigger:Execute(EventTriggerType, BaseEventData)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
-UnityEngine.EventSystems.EventSystem:Update()
+UnityEngine.InputSystem.Utilities.DelegateHelpers:InvokeCallbacksSafe(CallbackArray`1&, TValue, String, Object)
+UnityEngine.InputSystem.InputActionState:CallActionListeners(Int32, InputActionMap, InputActionPhase, CallbackArray`1&, String)
+UnityEngine.InputSystem.InputActionState:ChangePhaseOfActionInternal(Int32, TriggerState*, InputActionPhase, TriggerState&, Boolean)
+UnityEngine.InputSystem.InputActionState:ChangePhaseOfAction(InputActionPhase, TriggerState&, InputActionPhase)
+UnityEngine.InputSystem.InputActionState:ProcessDefaultInteraction(TriggerState&, Int32)
+UnityEngine.InputSystem.InputActionState:ProcessControlStateChange(Int32, Int32, Int32, Double, InputEventPtr)
+UnityEngine.InputSystem.InputActionState:UnityEngine.InputSystem.LowLevel.IInputStateChangeMonitor.NotifyControlStateChanged(InputControl, Double, InputEventPtr, Int64)
+UnityEngine.InputSystem.InputManagerStateMonitors:FireStateChangeNotifications(Int32, Double, InputEvent*)
+UnityEngine.InputSystem.InputManager:UpdateState(InputDevice, InputUpdateType, Void*, UInt32, UInt32, Double, InputEventPtr)
+UnityEngine.InputSystem.InputManager:UpdateState(InputDevice, InputEvent*, InputUpdateType)
+UnityEngine.InputSystem.InputManager:ProcessEvent(InputDevice, InputUpdateType, InputEvent*, UInt32&, Double)
+UnityEngine.InputSystem.InputManager:ProcessBeforeRenderStateEvents(InputDevice&, InputEvent*&)
+UnityEngine.InputSystem.InputManager:OnUpdate(InputUpdateType, InputEventBuffer&)
+UnityEngine.InputSystem.LowLevel.<>c__DisplayClass10_0:<set_onUpdate>b__0(NativeInputUpdateType, NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate(NativeInputUpdateType, IntPtr)
 
 The referenced script on this Behaviour (Game Object 'Test') is missing!
 The referenced script on this Behaviour (Game Object 'ShadowCasterCube_Base (07)') is missing!
@@ -1952,13 +1976,13 @@ UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 ObjectsManager:OnSceneUnloaded(Scene)
 
-UnloadTime: 6.123800 ms
+UnloadTime: 5.268600 ms
 Renderer 'UCX_SM_HammerSet_01a_LOD0' is registered with more than one LODGroup ('SM_HammerSet_01a (02)' and 'SM_HammerSet_01a').
 Renderer 'UCX_SM_HammerSet_01a_LOD0' is registered with more than one LODGroup ('SM_HammerSet_01a (02)' and 'SM_HammerSet_01a').
 Renderer 'UCX_SM_HammerSet_01a_LOD0' is registered with more than one LODGroup ('SM_HammerSet_01a (01)' and 'SM_HammerSet_01a').
 Renderer 'UCX_SM_HammerSet_01a_LOD0' is registered with more than one LODGroup ('SM_HammerSet_01a (01)' and 'SM_HammerSet_01a').
-Unloading 468 unused Assets to reduce memory usage. Loaded Objects now: 460613.
-Total: 112.660600 ms (FindLiveObjects: 29.057000 ms CreateObjectMapping: 12.940000 ms MarkObjects: 68.854200 ms  DeleteObjects: 1.808900 ms)
+Unloading 472 unused Assets to reduce memory usage. Loaded Objects now: 460609.
+Total: 122.987500 ms (FindLiveObjects: 29.975300 ms CreateObjectMapping: 12.835900 ms MarkObjects: 78.398900 ms  DeleteObjects: 1.776900 ms)
 
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
@@ -2031,14 +2055,14 @@ UnityEngine.Object:Instantiate(T)
 PolymindGames.<Start>d__13:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[SceneLoading] Scene Apartment_a3_ap16_Windows loaded in: 2,8774755s
+[SceneLoading] Scene Apartment_a3_ap16_Windows loaded in: 2,8014705s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <SceneLoad>d__47:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[ObjectsManager] Initialization finished in 0,56 seconds
+[ObjectsManager] Initialization finished in 0,04 seconds
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -2046,7 +2070,7 @@ UnityEngine.Debug:Log(Object)
 <ProcessQueue>d__29:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[SceneLoading] Scene Apartment_a3_ap16_Windows objects initialized in: 0,7049702s
+[SceneLoading] Scene Apartment_a3_ap16_Windows objects initialized in: 0,125518s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -2054,15 +2078,15 @@ UnityEngine.Debug:Log(Object)
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 15)
-[SceneLoading] Memory cleared in: 0,0544046s
+[SceneLoading] Memory cleared in: 0,0507519s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <SceneLoad>d__47:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-Unloading 13556 unused Assets to reduce memory usage. Loaded Objects now: 457585.
-Total: 125.448700 ms (FindLiveObjects: 30.551300 ms CreateObjectMapping: 11.602500 ms MarkObjects: 78.229000 ms  DeleteObjects: 5.065200 ms)
+Unloading 13556 unused Assets to reduce memory usage. Loaded Objects now: 457581.
+Total: 125.375400 ms (FindLiveObjects: 29.327600 ms CreateObjectMapping: 11.572100 ms MarkObjects: 79.336500 ms  DeleteObjects: 5.138700 ms)
 
 [SteamAchievementProvider] Failed to get achievement status for 'ACH_UNLOCK_ALL_TOOLS'.
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
@@ -2096,7 +2120,7 @@ SaveData:LoadPlayerData()
 <LoadSceneSave>d__50:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[SceneLoading] Player data loaded in: 0,1366337s
+[SceneLoading] Player data loaded in: 0,136046s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -2110,14 +2134,14 @@ UnityEngine.Debug:Log(Object)
 <LoadSceneSave>d__50:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[SceneLoading] Save file cached in: 0,6598819s
+[SceneLoading] Save file cached in: 0,6692314s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <LoadSceneSave>d__50:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[SceneLoading] Textures loaded in: 0,2610532s
+[SceneLoading] Textures loaded in: 0,0295694s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -2313,7 +2337,7 @@ ES3AutoSaveMgr:Load()
 <LoadSceneSave>d__50:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[SceneLoading] Scene save loaded in: 83,6493285s
+[SceneLoading] Scene save loaded in: 85,2116401s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -2431,7 +2455,7 @@ Simplicity.DLC.DLCManager:ValidateDLCs()
 <SceneLoad>d__47:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[SceneLoading] Portal manager handled in: 0,1739645s
+[SceneLoading] Portal manager handled in: 0,0742835s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -2547,14 +2571,14 @@ UnityEngine.Debug:Log(Object)
 <SaveSceneCoroutine>d__32:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[SceneLoading] Scene Apartment_a3_ap16_Windows load time: 92,3034827s
+[SceneLoading] Scene Apartment_a3_ap16_Windows load time: 92,4144203s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <SceneLoad>d__47:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[Save] Scene save completed in: 2,545738s
+[Save] Scene save completed in: 2,26403s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -2575,14 +2599,14 @@ UnityEngine.Debug:Log(Object)
 <SaveData>d__13:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[Save] Textures save completed in: 2,573944s
+[Save] Textures save completed in: 2,284531s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 <SaveSceneCoroutine>d__32:MoveNext()
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
-[Save] Apartment_a3_ap16_Windows save ended in: 3,261703s
+[Save] Apartment_a3_ap16_Windows save ended in: 2,858505s
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -2590,74 +2614,6 @@ UnityEngine.Debug:Log(Object)
 UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
 
 [Save] Auto save completed
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-<SaveSceneCoroutine>d__32:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-[Save] Apartment_a3_ap16_Windows save started
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-<SaveSceneCoroutine>d__32:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-SaveManager:ManualSave(String)
-SaveManager:CreateNewManualSave()
-UI_SavePanel:CreateNewSave()
-UnityEngine.Events.UnityEvent:Invoke()
-Majster.UI.UISelectableButton:Confirm()
-UnityEngine.Events.UnityEvent`1:Invoke(T0)
-UnityEngine.EventSystems.EventTrigger:Execute(EventTriggerType, BaseEventData)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
-UnityEngine.EventSystems.EventSystem:Update()
-
-[Save] Waiting for scene to save
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-<SaveSceneCoroutine>d__32:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-[Save] Scene save completed in: 0,0569458s
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-<SaveSceneCoroutine>d__32:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-[Save] Waiting for textures to save
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-<SaveSceneCoroutine>d__32:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-[Save] Textures to save: 0
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-<SaveData>d__13:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-[Save] Textures save completed in: 0,06941223s
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-<SaveSceneCoroutine>d__32:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-[Save] Apartment_a3_ap16_Windows save ended in: 0,6439819s
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-<SaveSceneCoroutine>d__32:MoveNext()
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
-
-[Save] Manual save completed
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
