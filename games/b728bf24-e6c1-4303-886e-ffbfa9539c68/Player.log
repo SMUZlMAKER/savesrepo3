@@ -1,0 +1,1903 @@
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.3.22f1 (1c726e1fb402)
+[Subsystems] Discovering subsystems at path C:/Games/Low-Budget Repairs (2026)/LowBudgetRepairs_Data/UnitySubsystems
+GfxDevice: creating device client; kGfxThreadingModeClientWorkerJobs
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25a0)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   32.0.16.1091
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+<RI> Initializing input.
+Using Windows.Gaming.Input
+<RI> Input initialized.
+UnloadTime: 0.430000 ms
+:: GIT HASH COMMIT: 28427de2
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PolymindGames.OdinSerializer.UnitySerializationInitializer:Initialize()
+
+Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PolymindGames.OdinSerializer.ArchitectureInfo:SetRuntimePlatform(RuntimePlatform)
+PolymindGames.OdinSerializer.UnitySerializationInitializer:Initialize()
+
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Simplicity.Save.OdinSerializer.UnitySerializationInitializer:Initialize()
+
+Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Simplicity.Save.OdinSerializer.ArchitectureInfo:SetRuntimePlatform(RuntimePlatform)
+Simplicity.Save.OdinSerializer.UnitySerializationInitializer:Initialize()
+
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sirenix.Serialization.UnitySerializationInitializer:Initialize()
+
+Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sirenix.Serialization.ArchitectureInfo:SetRuntimePlatform(RuntimePlatform)
+Sirenix.Serialization.UnitySerializationInitializer:Initialize()
+
+[Game] Game version: 1.5.06
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Simplicity.Game:Setup()
+UnityEngine.GameObject:AddComponent(Type)
+UnityEngine.GameObject:AddComponent()
+Singleton`1:get_Instance()
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+SteamManager:Awake()
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform)
+Simplicity.Game:InstantiateManagers()
+Simplicity.Game:Setup()
+UnityEngine.GameObject:AddComponent(Type)
+UnityEngine.GameObject:AddComponent()
+Singleton`1:get_Instance()
+
+[ line 1357829768]
+
+[Singleton] Using instance already created: New Game Object
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Singleton`1:get_Instance()
+JobManager:Awake()
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform)
+Simplicity.Game:InstantiateManagers()
+Simplicity.Game:Setup()
+UnityEngine.GameObject:AddComponent(Type)
+UnityEngine.GameObject:AddComponent()
+Singleton`1:get_Instance()
+
+[DLCManager] DLC DLC_SupporterPack is unlocked
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Simplicity.DLC.DLCManager:ValidateDLCs()
+Simplicity.DLC.DLCManager:Awake()
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform)
+Simplicity.Game:InstantiateManagers()
+Simplicity.Game:Setup()
+UnityEngine.GameObject:AddComponent(Type)
+UnityEngine.GameObject:AddComponent()
+Singleton`1:get_Instance()
+
+Modules blocked by Module Blocker: 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ModuleBlocker:SetBlockedModules(List`1)
+Simplicity.Game:Setup()
+UnityEngine.GameObject:AddComponent(Type)
+UnityEngine.GameObject:AddComponent()
+Singleton`1:get_Instance()
+
+[Audio] Loading audio bank: Dialogue_en-US
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Settings:SelectAudioLanguage(String)
+Settings:ApplySettings()
+Simplicity.Game:SetupDefaultSave()
+Simplicity.<HandleGameSettings>d__132:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Simplicity.Game:Setup()
+UnityEngine.GameObject:AddComponent(Type)
+UnityEngine.GameObject:AddComponent()
+Singleton`1:get_Instance()
+
+[Singleton] An instance of Simplicity.Game is needed in the scene, so '(singleton) Simplicity.Game (UnityEngine.GameObject)' was created with DontDestroyOnLoad.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Singleton`1:get_Instance()
+
+[SteamAchievementProvider] User stats received successfully.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Simplicity.Achievements.SteamAchievementProvider:OnUserStatsReceived(UserStatsReceived_t)
+Steamworks.Callback`1:OnRunCallback(IntPtr)
+Steamworks.CallbackDispatcher:RunFrame(Boolean)
+
+[SteamAchievementProvider] Initialized: True
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Simplicity.Achievements.SteamAchievementProvider:OnUserStatsReceived(UserStatsReceived_t)
+Steamworks.Callback`1:OnRunCallback(IntPtr)
+Steamworks.CallbackDispatcher:RunFrame(Boolean)
+
+[FMOD] Please add an 'FMOD Studio Listener' component to your camera in the scene for correct 3D positioning of sounds.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FMODUnity.RuntimeManager:Update()
+
+[Save] Auto save timer started
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<StartAutoSaveTimerCoroutine>d__45:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[Audio] Loading audio bank: Dialogue_en-US
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Settings:SelectAudioLanguage(String)
+Settings:ApplySettings()
+Simplicity.<HandleGameSettings>d__132:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ObjectsManager] Scene loaded. Starting initialization 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<InitializeRoutine>d__27:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 2% (50/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 3% (100/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 5% (150/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 7% (200/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 9% (250/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 10% (300/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 12% (350/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 14% (400/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 16% (450/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 17% (500/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 19% (550/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 21% (600/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 23% (650/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 24% (700/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 26% (750/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 28% (800/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 30% (850/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 31% (900/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 33% (950/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 35% (1000/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 37% (1050/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 38% (1100/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 40% (1150/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 42% (1200/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 44% (1250/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 45% (1300/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 47% (1350/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 49% (1400/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 51% (1450/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 52% (1500/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 54% (1550/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WarmUp may be inaccurate due to GraphicsDeviceType mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to RuntimePlatform mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+WarmUp may be inaccurate due to Quality Level mismatch.
+UnityEngine.Experimental.Rendering.GraphicsStateCollection:WarmUpProgressively(Int32, JobHandle)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 1357831240]
+
+[Shaders] Warming up graphics state collection 'GraphicsStateCollection': 54% (1557/2861)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[Shaders] All graphics state collections warmed up in 0,1944338s
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PreloadShaders>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<Start>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_BUY_LOCKPICKS'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_CAR_TRUNK'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_CLEAN_TRASH'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_COLLECTOR'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_DESTROY_TILES'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_EARN_MONEY'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_ELECTRIC_CABLES'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_ELECTRIC_SHOCK'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_EMOTE_MASTER'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_FIRST_COLLECTIBLE'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_FIRST_STEPS'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_FIX_FURNITURE'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_PERFECT_JOB'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_SLOPPY_WORK'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_SPEND_MONEY'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_TOILET'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_UNLOCK_ALL_TOOLS'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_UPGRADE_ALL_TOOLS'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_UPGRADE_TOOL'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_FIRST_JOB_DONE'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_EXTINGUISH_FIRE'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_FIFTH_PLACE'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_FIX_PLAYGROUND'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_FINISH_MURAL'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_FIX_CAR'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_FOURTH_PLACE'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_USE_LOCKPICK'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_THIRD_PLACE'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_SECOND_PLACE'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_FIRST_PLACE'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_JANUSZ_SECRET'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_SAVE_HELEN'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_STAINED_GLASS'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_ZBYSZEK_DEATH'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_FIX_FIRST_FURNITURE'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_DESTROY_WALL'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_OPEN_FIRST_SAFE'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_FIND_CHURCH_EVIDENCE'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_CLEAN_HOUSE_FACADE'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_OPEN_SWINE_ROOM'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_STATUE_PARTS'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_EAVESDROP_GARAGE'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_STEAL_MONEY_PRISON'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_COLLECTION_PLATE'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_DESTROY_DOOR_PANES'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_FINISH_SIDE_JOB'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_FINISH_MORE_SIDE_JOBS'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SteamAchievementProvider] Failed to get achievement status for 'ACH_FIND_KEYS'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Simplicity.Achievements.SteamAchievementProvider:IsAchievementUnlocked(AchievementData)
+Simplicity.Achievements.AchievementManager:CheckCompletedAchievements()
+Simplicity.Achievements.<Start>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ObjectsManager] Initialization finished in 0,00 seconds
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<>c:<InitializeRoutine>b__27_1(Single)
+<ProcessQueue>d__29:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 15)
+[ObjectsManager] Scene unloaded. Preparing for new scene...
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ObjectsManager:OnSceneUnloaded(Scene)
+
+UnloadTime: 4.249400 ms
+EnterTween :: This DOTweenAnimation isn't valid and its tween won't be created
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+DG.Tweening.DOTweenAnimation:CreateTween(Boolean, Boolean)
+DotTweenAnimationHandler:Play()
+UI_BasePanel:Start()
+Majster.UI.UIMenu:Start()
+
+[ObjectsManager] Scene loaded. Starting initialization 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<InitializeRoutine>d__27:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 976 unused Assets to reduce memory usage. Loaded Objects now: 77847.
+Total: 129.861400 ms (FindLiveObjects: 6.158700 ms CreateObjectMapping: 10.363800 ms MarkObjects: 94.293700 ms  DeleteObjects: 19.044500 ms)
+
+[SceneLoading] Scene MainMenu loaded in: 0,7228531s
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SceneLoad>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ObjectsManager] Initialization finished in 0,00 seconds
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<>c:<InitializeRoutine>b__27_1(Single)
+<ProcessQueue>d__29:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SceneLoading] Scene MainMenu objects initialized in: 0,0074495s
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SceneLoad>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 15)
+[SceneLoading] Memory cleared in: 0,0320274s
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SceneLoad>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Color primaries 0 is unknown or unsupported by WindowsMediaFoundation. Falling back to default may result in color shift. C:/Games/Low-Budget Repairs (2026)/LowBudgetRepairs_Data/sharedassets1.resource
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 77839.
+Total: 113.974300 ms (FindLiveObjects: 6.387700 ms CreateObjectMapping: 12.409400 ms MarkObjects: 95.005200 ms  DeleteObjects: 0.171400 ms)
+
+[DLCManager] DLC DLC_SupporterPack is unlocked
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Simplicity.DLC.DLCManager:ValidateDLCs()
+<SceneLoad>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SceneLoading] Portal manager handled in: 0,0152392s
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SceneLoad>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SceneLoading] Scene MainMenu load time: 3,0338622s
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SceneLoad>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
